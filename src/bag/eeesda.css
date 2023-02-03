@@ -1,0 +1,31 @@
+*{
+    margin:0 ;
+    padding: 0; 
+}
+.zurag img{
+    height: 400px;
+    width: 350px;
+    border-radius: 20px 20px 0 0 ;
+    
+
+}
+.aaa{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: end;
+}
+.bbb{
+    margin-right: 10%;
+    margin-top: 10%;
+}
+.text {
+    height: 300px;
+    width: 350px;
+    background: grey;
+    border-radius: 0 0 15px 15px ;
+
+}
+.text p{
+    font-size: 24px;
+}
